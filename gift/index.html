@@ -1,0 +1,28 @@
+<!-- Meta refresh fallback for non-JS users -->
+<meta http-equiv="refresh" content="5;url=https://resnexus.com/resnexus/reservations/book/7C3C517A-A2FB-4619-9475-7A59CFFBCB91/GiftCertificates">
+
+<!-- Google Analytics event and redirect -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B74R3BJ4F2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-B74R3BJ4F2');
+
+  // Fire GA event for gift certificate click
+  gtag('event', 'gift_certificate_click', {
+    event_category: 'engagement',
+    event_label: 'Redirect to ResNexus gift certificate page'
+  });
+
+  // Redirect after short delay
+  setTimeout(() => {
+    window.location.href = 'https://resnexus.com/resnexus/reservations/book/7C3C517A-A2FB-4619-9475-7A59CFFBCB91/GiftCertificates';
+  }, 500);
+</script>
+
+<!-- Fallback and message -->
+<div style="text-align: center; padding: 100px 20px;">
+  <h2>Redirecting you to our Gift Certificates page…</h2>
+  <p>If you are not redirected automatically, <a href="https://resnexus.com/resnexus/reservations/book/7C3C517A-A2FB-4619-9475-7A59CFFBCB91/GiftCertificates">click here</a>.</p>
+</div>
