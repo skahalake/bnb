@@ -1,68 +1,39 @@
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <!-- Main Homepage -->
-  <url>
-    <loc>https://skahalakefrontbnb.ca/</loc>
-    <lastmod>2025-04-15</lastmod>
-    <priority>1.0</priority>
-  </url>
-
-  <!-- About Section -->
-  <url>
-    <loc>https://skahalakefrontbnb.ca/#about</loc>
-    <lastmod>2025-04-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Services Section -->
-  <url>
-    <loc>https://skahalakefrontbnb.ca/#services</loc>
-    <lastmod>2025-04-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Our Space Section -->
-  <url>
-    <loc>https://skahalakefrontbnb.ca/#portfolio</loc>
-    <lastmod>2025-04-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Book Now (External Booking Link) -->
-  <url>
-    <loc>https://resnexus.com/resnexus/reservations/book/7C3C517A-A2FB-4619-9475-7A59CFFBCB91?</loc>
-    <lastmod>2025-04-15</lastmod>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Contact Section -->
-  <url>
-    <loc>https://skahalakefrontbnb.ca/#contact</loc>
-    <lastmod>2025-04-15</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://skahalakefrontbnb.ca/book/</loc>
-    <lastmod>2025-04-19</lastmod>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://skahalakefrontbnb.ca/gift/</loc>
-  </url>
-  <url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://skahalakefrontbnb.ca/about-us/</loc>
+</url>
+<url>
+<loc>https://skahalakefrontbnb.ca/book/</loc>
+</url>
+<url>
+<loc>https://skahalakefrontbnb.ca/gift/</loc>
+</url>
+<url>
+<loc>https://skahalakefrontbnb.ca/</loc>
+</url>
+<url>
 <loc>https://skahalakefrontbnb.ca/kingsuite/</loc>
-<lastmod>2025-04-21T06:06:52-06:00</lastmod>
 </url>
 <url>
 <loc>https://skahalakefrontbnb.ca/lakeview/</loc>
-<lastmod>2025-04-21T06:00:50-06:00</lastmod>
+</url>
+<url>
+<loc>https://skahalakefrontbnb.ca/local-attractions/</loc>
+</url>
+<url>
+<loc>https://skahalakefrontbnb.ca/outdoor-activities/</loc>
+</url>
+<url>
+<loc>https://skahalakefrontbnb.ca/photo-gallery/</loc>
 </url>
 <url>
 <loc>https://skahalakefrontbnb.ca/queensuite/</loc>
-<lastmod>2025-04-21T05:55:18-06:00</lastmod>
+</url>
+<url>
+<loc>https://skahalakefrontbnb.ca/special-offers/</loc>
 </url>
 <url>
 <loc>https://skahalakefrontbnb.ca/sunset/</loc>
-<lastmod>2025-04-21T05:28:25-06:00</lastmod>
 </url>
-
 </urlset>
